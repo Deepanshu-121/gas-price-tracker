@@ -106,7 +106,6 @@ Calculates gas cost in USD across all 3 chains
 Gas alert shown when threshold is hit
 Candlestick chart updates every 15 minutes
 
-🤝 Contributing
-PRs are welcome! For major changes, open an issue first to discuss.
+
 
 
